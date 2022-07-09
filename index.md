@@ -8,6 +8,7 @@ domain: amin.abbaspour.net
 
 Hi there :wave: 
 
-* [LinkedIn](https://www.linkedin.com/in/abbaspour/)
-* [Github](https://github.com/abbaspour)
+* [LinkedIn abbaspour](https://www.linkedin.com/in/abbaspour/)
+* [Github @abbaspour](https://github.com/abbaspour)
+* [Twitter @aminize](https://twitter.com/aminize)
 
