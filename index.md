@@ -6,7 +6,7 @@ cover:
 domain: amin.abbaspour.net
 ---
 
-Hi there :wave: 
+Hi there `:wave:` 
 
 * [LinkedIn abbaspour](https://www.linkedin.com/in/abbaspour/)
 * [Github @abbaspour](https://github.com/abbaspour)
